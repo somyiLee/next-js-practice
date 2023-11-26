@@ -21,6 +21,7 @@ export default function Create() {
           .then((data) => {
             const lastid = data.id;
             router.push(`/read/${lastid}`);
+            router.refresh();
           });
       }}
     >
