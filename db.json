@@ -6,47 +6,34 @@
       "body": "html is ..."
     },
     {
-      "id": 2,
-      "title": "css",
-      "body": "css is ..."
-    },
-    {
-      "id": 3
-    },
-    {
-      "title": "ㅇㅇㅇ",
-      "body": "ㅇㅇㅇㅇ",
-      "id": 4
-    },
-    {
       "title": "js",
-      "body": "js is ....",
-      "id": 5
+      "body": "js is ...",
+      "id": 3
     },
     {
       "title": "react",
       "body": "react is ...",
+      "id": 4
+    },
+    {
+      "title": "js",
+      "body": "js is ...",
+      "id": 5
+    },
+    {
+      "title": "next",
+      "body": "next is ...",
       "id": 6
     },
     {
       "title": "hi",
-      "body": "hi is ...",
+      "body": "hi..",
       "id": 7
     },
     {
-      "title": "Test",
-      "body": "Test is ...",
+      "title": "bye",
+      "body": "good bye ...",
       "id": 8
-    },
-    {
-      "title": "test2",
-      "body": "test2 is ...",
-      "id": 9
-    },
-    {
-      "title": "ddd",
-      "body": "dddd",
-      "id": 10
     }
   ],
   "posts": [

@@ -9,7 +9,8 @@ export const metadata = {
 
 export default async function RootLayout({ children }) {
   const resq = await fetch(process.env.NEXT_PUBLIC_API_URL + "topics", {
-    cache: "no-store",
+    // cache: "no-store",
+    next: { revalidate: 0 },
   });
   const topic = await resq.json();
 
